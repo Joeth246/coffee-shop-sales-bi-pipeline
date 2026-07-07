@@ -59,7 +59,7 @@ Power BI Dashboard
 
 ### Executive Dashboard
 
-[Dashboard](Screenshots/power_dashboard.png)
+[Dashboard](power_dashboard.png)
 
 ## Business Questions Answered
 
@@ -110,4 +110,4 @@ Potential enhancements include:
 - Live database integration
 - Automated scheduled ETL pipeline
 
-Business Intelligence | Data Analytics | Python | SQL | Power BI
+Business Intelligence and Data Analytics using Python, SQL and Power BI

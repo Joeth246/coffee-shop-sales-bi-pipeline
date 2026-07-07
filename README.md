@@ -1,6 +1,6 @@
-# coffee-shop-sales-bi-pipeline
+# Coffee-shop-sales-bi-pipeline and data analysis
 
-# ☕ Bean & Brew Sales Analytics Pipeline
+# Bean & Brew Sales Analytics Pipeline
 
 An end-to-end Business Intelligence project demonstrating the complete analytics workflow from synthetic data generation to executive dashboard reporting.
 

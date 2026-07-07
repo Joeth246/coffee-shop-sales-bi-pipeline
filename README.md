@@ -59,7 +59,8 @@ Power BI Dashboard
 
 ### Executive Dashboard
 
-[Dashboard]((https://github.com/Joeth246/coffee-shop-sales-bi-pipeline/blob/main/CAPSTONE/Screenshots/power_dashboard.png))
+https://github.com/Joeth246/coffee-shop-sales-bi-pipeline/blob/main/CAPSTONE/Screenshots/power_dashboard.png
+
 
 ## Business Questions Answered
 

@@ -2,9 +2,9 @@ from pathlib import Path
 
 import pandas as pd
 
-# --------------------------------------------------
+# 
 # Project Paths
-# --------------------------------------------------
+# 
 
 PROJECT_ROOT = Path(__file__).resolve().parent.parent
 
@@ -12,9 +12,9 @@ RAW_DATA = PROJECT_ROOT / "data" / "raw_sales.csv"
 
 CLEAN_DATA = PROJECT_ROOT / "data" / "cleaned_sales.csv"
 
-# --------------------------------------------------
+# 
 # Load
-# --------------------------------------------------
+# 
 
 df = pd.read_csv(RAW_DATA)
 
